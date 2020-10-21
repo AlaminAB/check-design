@@ -116,8 +116,9 @@ a {
 /* banner_section */
 header {
   display: flex;
-  max-height: 650px;
-  background: #FA9A9A;
+  max-height: 600px;
+  background-color: #FA9A9A;
+  background: url(../img/banner_img-sm.png);
 }
 
 .header-left {
@@ -216,4 +217,49 @@ a.custom-button {
 
 .rating-and-button {
   margin-top: 50px;
+}
+/* another header  */
+.header-content {
+  max-width: 50%;
+  margin: 0 auto;
+  padding-top: 5%;
+  padding-bottom: 15%;
+}
+
+.header-content  h1 {
+  font-size: 45px;
+  line-height: 1.4;
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.header-content h5 {
+  font-size: 18px;
+  color: #fff;
+  text-align: center;
+  line-height: 1.5;
+}
+
+.header-logo {
+  padding-top: 20px;
+}
+
+.header-logo img {
+  max-width: 210px;
+}
+header {
+  
+background-color: #FA9A9A;
+  
+background: url(../img/banner_img-lg.png);
+  
+background-size: cover;
+  
+background-repeat: no-repeat;
+  
+width: 100%;
+  
+background-position-x: center;
+  
+padding-bottom: 0;
 }
