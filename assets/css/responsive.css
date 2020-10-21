@@ -107,4 +107,13 @@
     .banner-contenc {
         max-width: 90%;
     }
+    .header-content h1 {
+        font-size: 25px;
+    }
+    .header-content {
+        max-width: 90%;
+        margin: 0px auto;
+        padding-top: 4%;
+        padding-bottom: 15%;
+    }    
 }

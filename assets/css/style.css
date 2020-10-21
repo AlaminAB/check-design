@@ -238,6 +238,7 @@ a.custom-button {
   color: #fff;
   text-align: center;
   line-height: 1.5;
+  font-weight: 500;
 }
 
 .header-logo {
@@ -251,7 +252,7 @@ header {
   
 background-color: #FA9A9A;
   
-background: url(../img/banner_img-lg.png);
+background: url(../img/banner.jpg);
   
 background-size: cover;
   
